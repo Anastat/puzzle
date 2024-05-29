@@ -1,0 +1,11 @@
+{
+  "name": "puzzle",
+  "version": "1.0.0",
+  "description": "Orbit count checksums - the total number of direct orbits (like the one shown above) and indirect orbits",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
